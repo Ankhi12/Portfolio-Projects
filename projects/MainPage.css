@@ -1,0 +1,159 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+    background-image: url('');
+    font-family: sans-serif;
+}
+hr{
+    border: 0;
+    border-top: 1px solid #000000;
+}
+.custom{
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+    color: rgb(0, 0, 0);
+}
+.top-menu{
+    list-style-type: none;
+    display: inline-flex;
+}
+.top-menu-item{
+    width: 215px;
+    text-align: center;
+    font-size: large;
+}
+
+.top-menu-item a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.top-menu-item a:hover{
+    color: blueviolet;
+    font-weight:bold;
+    cursor: pointer;
+}
+#about-me{
+    color: rgb(0, 0, 0);
+    line-height: 2;
+    width: 65%;
+    margin-top: 10%;
+    margin-right: 6%;
+}
+.parent-flex{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.profile-photo{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border-style: groove;
+    border-radius: 50%;
+    border-color: rgb(255, 187, 0);
+    border-width: 4%;
+    margin-top: 10%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url('');
+    background-color: black;
+}
+#my-work{
+    line-height: 2;
+    width: 100%;
+    margin-top: 10%;
+    margin-right: 6%;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #4d695f;
+  color: white;
+}
+.problems{
+   color: transparent;
+   text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.table-content{
+    color: transparent;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.use-case{
+    height: 125%;
+    width: 125%;
+    margin-right: 200px;
+}
+.tech-stack-buttons{
+    display: inline;
+    width: 100%;
+}
+.js, .react, .redux, .sql, .html, .css, .mongodb{
+    margin-right: 20px;
+    padding: 10px;
+    border: none;
+    
+}
+.js{
+    background-color: yellow;
+}
+.react{
+    background-color: #4d695f;
+    color: white;
+}
+.redux{
+    background-color: aqua;
+}
+.sql{
+    background-color: aquamarine;
+}
+.mongodb{
+    background-color: #06ffe2;
+}
+.css{
+    background-color: orange;
+}
+.html{
+    background-color: rgb(255, 206, 114);
+}
+#connect{
+    margin-top: 10%;
+    margin-right: 6%;
+}
+.socials{
+    margin-top: 2%;
+}
+.social-lists{
+    list-style-type: none;
+}
+.linkedin, .medium, .github{
+    display: inline;
+    margin-right: 20px;
+}
+@media all and (max-width: 900px){
+    hr{
+        width: 100vh;
+    }
+    .parent-flex{
+        width: 100vh;
+        border-radius: 50%;
+    }
+    #my-work, #connect{
+        width: 100vh; 
+    }
+    .js, .html, .sql, .mongodb, .js, .css, .rect, .redux, .socials, .social-lists{
+        width: 100vh;
+    }
+}
