@@ -43,4 +43,10 @@ I used @media screen and (max-width: 600px) --> This means once the screen reach
 This was a fun activity, as I had to figure out which elements I had left out and also how to apply the same CSS property values to different elements' selectors.
 
 
+***Output***
+
+![Presentation1](https://github.com/user-attachments/assets/61249ec3-c998-41ae-b88f-18892c5edb56)
+
+[Full look and feel](https://github.com/Ankhi12/Portfolio-Projects/blob/main/projects/Presentation1.pdf)
+
 
