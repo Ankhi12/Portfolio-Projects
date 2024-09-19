@@ -3,7 +3,7 @@ Things I learned doing this project:
 
 **Encountered a few CSS styles that were just not working - To solve this, I had to go back to the basics of understanding the "Cascading" part of CSS.**
    
-The issue with my code was that in a <div>, I had multiple *buttons* -> for which I wanted to set different style properties. 
+The issue with my code was that in a *div*, I had multiple *buttons* -> for which I wanted to set different style properties. 
 
 I was focusing on *button* - which ended up changing all the buttons on the page, due to the lack of specificity. 
 
