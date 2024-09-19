@@ -1,6 +1,8 @@
 
 Things I learned doing this project:
 
+
+
 **Encountered a few CSS styles that were just not working - To solve this, I had to go back to the basics of understanding the "Cascading" part of CSS.**
    
 The issue with my code was that in a *div*, I had multiple *buttons* -> for which I wanted to set different style properties. 
@@ -8,6 +10,8 @@ The issue with my code was that in a *div*, I had multiple *buttons* -> for whic
 I was focusing on *button* - which ended up changing all the buttons on the page, due to the lack of specificity. 
 
 To solve this, I created classes for each button.
+
+
 
 
 **Display properties --> Inline, Block, Flex, and Inline-Block**
@@ -18,9 +22,11 @@ Block->This means the HTML element will take a whole block space, start, and end
 
 Flex-> Displays HTML element in a block-level flex container format.
 
-Inline-flex ->Displays HTML element in an inline-level flex container format
+Inline-flex->Displays HTML element in an inline-level flex container format
 
-Inline-block->Elemnts are formatted as inline. However, you can apply height and weight to it.
+Inline-block->Elements are formatted as inline. However, you can apply height and weight to it.
+
+
 
 
 **Layout**
