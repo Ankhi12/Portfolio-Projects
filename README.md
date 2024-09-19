@@ -3,9 +3,9 @@ Things I learned doing this project:
 
 **Encountered a few CSS styles that were just not working - To solve this, I had to go back to the basics of understanding the "Cascading" part of CSS.**
    
-The issue with my code was that in a <div>, I had multiple <buttons> -> for which I wanted to set different style properties. 
+The issue with my code was that in a <div>, I had multiple *buttons* -> for which I wanted to set different style properties. 
 
-I was focusing on <button> - which ended up changing all the buttons on the page, due to the lack of specificity. 
+I was focusing on *button* - which ended up changing all the buttons on the page, due to the lack of specificity. 
 
 To solve this, I created classes for each button.
 
@@ -32,7 +32,7 @@ Grid-> Here we lay HTML elements in a row and column format.
 [To Read More](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
 
 
-**Responsive ness**
+**Responsive-ness**
    
 I intentionally wanted to create a responsive webpage, with pure HTML and CSS--to have a better ground level and foundation knowledge about it.
 
