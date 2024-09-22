@@ -63,11 +63,12 @@ This was a fun activity, as I had to figure out which elements I had left out an
 ![image](https://github.com/user-attachments/assets/ce742a1a-8741-47a1-aea9-b8ac5fe8afd1)
 
 
-Used Bootstrap 5.0.2
 
 ***Output***
 [Full Look and Feel](https://github.com/Ankhi12/Portfolio-Projects/blob/main/projects/project2Bootstrapresponsiveproject/Presentation2.pdf)
 
+
+Used Bootstrap 5.0.2
 
 Followed Tutorial: [YouTube](https://www.youtube.com/watch?v=4sosXZsdy-s) 
 
