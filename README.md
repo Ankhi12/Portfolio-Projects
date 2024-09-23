@@ -82,3 +82,12 @@ Image-2: [Unsplash](https://unsplash.com/photos/green-plant-on-white-cabinet-Hst
 Image-3: [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-logo-on-it-UYsBCu9RP3Y)
 
 
+**BACKEND PROJECT**
+
+For this, I have followed a wonderful [tutorial](https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm&index=1).
+
+I have used MVC format with middleware for authentications.
+
+Check out the project [here](https://github.com/Ankhi12/Portfolio-Projects/tree/main/Backend%20Project)
+
+
